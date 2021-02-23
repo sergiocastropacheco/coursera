@@ -1,0 +1,17 @@
+The tidy data set presented in this repository is original from Anguita et al (2012) was modified through the steps described in the Read Me Section.
+
+The data set has four columns:
+
+-Subject: this is a numerical vector in which each number represents the ID of a given individual. There are 30 individuals in total
+
+-Activity: this describes the activity that the individual was performing at the evaluation moment. 
+Six activities were registered: sitting, walking, standing, layind, climbing upstairs and downstairs
+
+-Variable: This describes the variable which is evaluated. It only includes means and standard deviations. To further understand the variables nature, consult Anguita et al (2012).
+
+-Value: The numerical value associated to the described variable. Again, only means and standard deviations are present. 
+
+
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. 
+Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. 
+International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
