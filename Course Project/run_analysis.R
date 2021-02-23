@@ -17,7 +17,7 @@ unzip("./CP/samsung.zip", exdir="./CP")
 list.files("./CP")
 
 #This is the actual folder where the data was sent
-setwd("C:/Users/Usuario1/Dropbox/Data Science/CP/UCI HAR Dataset")
+setwd("./CP/UCI HAR Dataset")
 #See files
 list.files(getwd())
 
